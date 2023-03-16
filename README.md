@@ -1,7 +1,7 @@
 # star-position
-##find azimuth altitude of a star , planet, or any other celestial object
+## find azimuth altitude of a star , planet, or any other celestial object
 
-astro.py is a working example of the program
+### astro.py is a working example of the program
 
 a text file is generated with information on the celestial object
 
