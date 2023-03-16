@@ -9,8 +9,6 @@ a prompt for the name of the file is followed by prompts for universal date/time
 
 enter a lowercase 'e' to exit 
 
-numerical values must be entered 
-
 a null enter for the file name will name the file spicific to the universal date/time 
 
 a null enter the universal time/date will enter the current universal date/time 
